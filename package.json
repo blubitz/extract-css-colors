@@ -1,5 +1,5 @@
 {
-  "name": "css-colors",
+  "name": "extract-css-colors",
   "version": "1.0.0",
   "description": "Extract color palettes from web elements",
   "keywords": [
