@@ -29,7 +29,7 @@ An array of strings. Each string being either a `rgb()` value or `rgba()` value.
 ### Example
 
 ```js
-import cssColors from './node_modules/css-colors/index.js'
+import cssColors from './node_modules/extract-css-colors/index.js'
 
 const el = document.getElementById('yourElement')
 console.log( cssColors(el) )
