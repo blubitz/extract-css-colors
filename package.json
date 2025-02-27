@@ -1,0 +1,24 @@
+{
+  "name": "css-colors",
+  "version": "1.0.0",
+  "description": "Extract color palettes from web elements",
+  "keywords": [
+    "palettes",
+    "color"
+  ],
+  "homepage": "https://github.com/blubitz/css-colors#readme",
+  "bugs": {
+    "url": "https://github.com/blubitz/css-colors/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blubitz/css-colors.git"
+  },
+  "license": "MIT",
+  "author": "blubitz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
