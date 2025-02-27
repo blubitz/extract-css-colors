@@ -1,3 +1,7 @@
+[![npm](https://img.shields.io/npm/v/extract-css-colors?style=flat-square)](https://www.npmjs.com/package/extract-css-colors)
+![npm bundle size](https://badges.hiptest.com/bundlephobia/min/extract-css-colors)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
 # extract-css-colors
 
 This ES module extracts all CSS colors from an element and its children.
@@ -51,7 +55,7 @@ Only the following CSS properties are used by the module to generate the color p
 
 ## License
 
-MIT
+Released under [MIT](/LICENSE) by [@blubitz](https://github.com/blubitz).
 
 ## Contributing
 
