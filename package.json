@@ -6,13 +6,13 @@
     "palettes",
     "color"
   ],
-  "homepage": "https://github.com/blubitz/css-colors#readme",
+  "homepage": "https://github.com/blubitz/extract-css-colors#readme",
   "bugs": {
-    "url": "https://github.com/blubitz/css-colors/issues"
+    "url": "https://github.com/blubitz/extract-css-colors/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blubitz/css-colors.git"
+    "url": "git+https://github.com/blubitz/extract-css-colors.git"
   },
   "license": "MIT",
   "author": "blubitz",
